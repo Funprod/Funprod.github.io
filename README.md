@@ -1,2 +1,2 @@
-# Funprod.github.io
-First
+# Funprod
+Попробовать точно стоит!
